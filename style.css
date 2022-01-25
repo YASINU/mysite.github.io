@@ -1,0 +1,26 @@
+body {
+    background-image: url('http://s1.picswalls.com/wallpapers/2014/02/07/lion-desktop-wallpapers_015820436_22.jpg');
+    /* background-image: url('https://wallpapercave.com/wp/wp2225591.jpg'); */
+
+    color: white;
+}
+header {
+    text-decoration: underline;
+}
+/* main {
+     // padding: 150px;
+
+}*/
+
+
+figure img, figcaption {
+        text-align: center;
+        width: 200px;
+        display: inline-block;
+
+    }
+
+footer {
+    font-size: 20px;
+    text-align: center;
+}
