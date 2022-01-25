@@ -1,12 +1,20 @@
 body {
-    background-image: url('https://wallpapercave.com/wp/wp3197369.png');
+    /* background-image: url('https://wallpapercave.com/wp/wp3197369.png'); */
+    background-image: url('https://images.unsplash.com/photo-1572283046480-e990be92d301?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80');
     
+    background-size: cover;
+    height: 160px;
+    /* border: 2px solid; */
+    color: black;
+    resize: both;
+    overflow: scroll;
 
+    background-color: black;
     color: white;
 }
 header {
     text-decoration: underline;
-    font-family: Helvetica, sans-serif;
+    font-family:Helvetica, sans-serif;
 }
 /* main {
      // padding: 150px;
@@ -22,6 +30,8 @@ figure img, figcaption {
     }
 
 footer {
+
+
     font-size: 20px;
     text-align: center;
 }
